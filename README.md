@@ -2,7 +2,7 @@
 
 ### 🐍 Aluno de Python | 📊 Futuro Analista de Dados
 
-![Banner Data Science](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXRwcmthb2FnMzlodjJhOHcydjVpdmNtc3AzZWN6MmIwcTZ6enV6MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/75cjznQKDcq2N3YhVB/giphy.gif)
+![Banner Data Science](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajBmZmhibjV2em5xZW5kMTd2emN3aG5kaGsyZ3oxMXluaHliMDBhaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VATqwvnJrw2ZvcxJpi/giphy.gif)
 
 > 🐍 Estudante de Python focado em **Análise de Dados** 📊.  
 > Aprendendo a transformar dados em insights 💡 através de código, prática e projetos reais.
