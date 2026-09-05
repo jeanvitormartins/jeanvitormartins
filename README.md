@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou [Jean Martins]
+# 👋 Olá! Eu sou [Seu Nome]
 
 ### 🐍 Aluno de Python | 📊 Futuro Analista de Dados
 
-![Banner Data Science]\(https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2t2OGh2MXEzYzZ2M2ptbWo5bzFocTZ0cnE4b2xkNnJzeDY0OXh4OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/u7sgDA7SkdLMloGHvX/giphy.gif)
+![Banner Data Science](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2t2OGh2MXEzYzZ2M2ptbWo5bzFocTZ0cnE4b2xkNnJzeDY0OXh4OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/u7sgDA7SkdLMloGHvX/giphy.gif)
 
 > Apaixonado por transformar dados em insights e código em soluções.
 
@@ -67,9 +67,9 @@ Atualmente estou focado em:
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jean-martins-7b33a6405/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeanvitormartins)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanzxl00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 ---
 
@@ -80,17 +80,3 @@ Atualmente estou focado em:
 ---
 
 ⭐ Se gostou do meu perfil, deixe uma estrela nos meus repositórios!
-<!--
-**jeanvitormartins/jeanvitormartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
