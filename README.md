@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Jean Vitor Martins
 
 ### 🐍 Aluno de Python | 📊 Futuro Analista de Dados
 
-![Banner Data Science](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2t2OGh2MXEzYzZ2M2ptbWo5bzFocTZ0cnE4b2xkNnJzeDY0OXh4OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/u7sgDA7SkdLMloGHvX/giphy.gif)
+![Banner Data Science](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGp0YWp0cXNxNHdybGs1NHExdGp1MzFkYnp6em4zZ2owcmwzaWQ2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6prNKZT3vv7W/giphy.gif)
 
 > Apaixonado por transformar dados em insights e código em soluções.
 
@@ -67,8 +67,8 @@ Atualmente estou focado em:
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-martins-7b33a6405/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeanvitormartins)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 ---
