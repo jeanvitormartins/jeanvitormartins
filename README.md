@@ -2,9 +2,10 @@
 
 ### 🐍 Aluno de Python | 📊 Futuro Analista de Dados
 
-![Banner Data Science](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDJtcWhwODEwODRrNXJxczF5eTRhempxazJqMGNyMG5jM3Zsc29qNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N1F2v6A5dp3ccpWZ4m/giphy.gif)
+![Banner Data Science](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXRwcmthb2FnMzlodjJhOHcydjVpdmNtc3AzZWN6MmIwcTZ6enV6MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/75cjznQKDcq2N3YhVB/giphy.gif)
 
-> 🐍 Estudante de Python focado em **Análise de Dados** 📊. Aprendendo a transformar dados em insights 💡 através de código, prática e projetos reais.
+> 🐍 Estudante de Python focado em **Análise de Dados** 📊.  
+> Aprendendo a transformar dados em insights 💡 através de código, prática e projetos reais.
 
 ---
 
@@ -13,7 +14,7 @@
 Olá! Sou **Jean Vitor Martins**, estudante de **Python** em transição para a área de **Análise de Dados**.  
 Estou construindo uma base sólida em programação, manipulação de dados 📈 e visualização 📉, com o objetivo de me tornar um Analista de Dados.
 
-Atualmente estou focado em:
+**Atualmente estou focado em:**
 - Aprender Python de forma estruturada
 - Dominar bibliotecas essenciais para análise de dados
 - Criar projetos práticos que mostrem minha evolução
