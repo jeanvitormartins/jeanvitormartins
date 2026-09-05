@@ -2,7 +2,7 @@
 
 ### 🐍 Aluno de Python | 📊 Futuro Analista de Dados
 
-![Banner Data Science](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=300&fit=crop)
+![Banner Data Science]\(https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d2t2OGh2MXEzYzZ2M2ptbWo5bzFocTZ0cnE4b2xkNnJzeDY0OXh4OSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/u7sgDA7SkdLMloGHvX/giphy.gif)
 
 > Apaixonado por transformar dados em insights e código em soluções.
 
