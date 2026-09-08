@@ -79,4 +79,4 @@ Atualmente estou focado em:
 
 ---
 
-⭐ Se gostou do meu perfil, deixe uma estrela nos meus repositórios!
+
