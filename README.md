@@ -1,8 +1,8 @@
-# 👋 Olá! Eu sou Jean Martins
+# 👋 Olá! Eu sou Jean Vitor Martins
 
 ### 🐍 Aluno de Python | 📊 Futuro Analista de Dados
 
-![Banner Data Science](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=300&fit=crop)
+![Banner Data Science](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=300&fit=crop)
 
 > 🐍 Estudante de Python focado em **Análise de Dados** 📊.  
 > Aprendendo a transformar dados em insights 💡 através de código, prática e projetos reais.
