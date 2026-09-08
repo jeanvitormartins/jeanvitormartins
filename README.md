@@ -73,7 +73,7 @@ Atualmente estou focado em:
 
 ---
 
-### 💡 “Os dados são o novo petróleo, e eu estou aprendendo a refiná-los.”
+### 💡 "Dados sem análise são só números. Eu estou aprendendo a transformá-los em decisões."
 
 ![Tecnologia e Dados](https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=1200&h=300&fit=crop)
 
