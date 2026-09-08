@@ -1,3 +1,4 @@
+```markdown
 # 👋 Olá! Eu sou Jean Vitor Martins
 
 ### 🐍 Aluno de Python | 📊 Futuro Analista de Dados
@@ -72,6 +73,9 @@ Estou construindo uma base sólida em programação, manipulação de dados 📈
 
 ---
 
-### 💡 “Dados sem análise são só números. Eu estou aprendendo a transformá-los em decisões.”
+![Data Analysis](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=900&h=350&fit=crop)
 
----
+### 💡 “Dados sem análise são só números. Eu estou aprendendo a transformá-los em decisões.”
+```
+
+Pronto! Removi a parte das estrelas.
