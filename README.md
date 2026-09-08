@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou Jean Martins.
 
 ### 🐍 Aluno de Python | 📊 Futuro Analista de Dados
 
